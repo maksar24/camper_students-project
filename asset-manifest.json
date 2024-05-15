@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/camper_students-project/static/css/main.7acaea2f.css",
+    "main.js": "/camper_students-project/static/js/main.7623596a.js",
+    "static/js/368.6cb7cfdb.chunk.js": "/camper_students-project/static/js/368.6cb7cfdb.chunk.js",
+    "static/js/78.d5c4ef25.chunk.js": "/camper_students-project/static/js/78.d5c4ef25.chunk.js",
+    "static/js/512.bd42f5dd.chunk.js": "/camper_students-project/static/js/512.bd42f5dd.chunk.js",
+    "index.html": "/camper_students-project/index.html",
+    "main.7acaea2f.css.map": "/camper_students-project/static/css/main.7acaea2f.css.map",
+    "main.7623596a.js.map": "/camper_students-project/static/js/main.7623596a.js.map",
+    "368.6cb7cfdb.chunk.js.map": "/camper_students-project/static/js/368.6cb7cfdb.chunk.js.map",
+    "78.d5c4ef25.chunk.js.map": "/camper_students-project/static/js/78.d5c4ef25.chunk.js.map",
+    "512.bd42f5dd.chunk.js.map": "/camper_students-project/static/js/512.bd42f5dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.7623596a.js"
+  ]
+}
