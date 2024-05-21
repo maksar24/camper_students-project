@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/camper_students-project/static/css/main.d6b9e615.css",
-    "main.js": "/camper_students-project/static/js/main.a17c2776.js",
+    "main.js": "/camper_students-project/static/js/main.b37ab847.js",
     "static/js/122.24d9c981.chunk.js": "/camper_students-project/static/js/122.24d9c981.chunk.js",
-    "static/js/649.fae41051.chunk.js": "/camper_students-project/static/js/649.fae41051.chunk.js",
-    "static/js/884.a6c668c7.chunk.js": "/camper_students-project/static/js/884.a6c668c7.chunk.js",
+    "static/js/649.f9cf388e.chunk.js": "/camper_students-project/static/js/649.f9cf388e.chunk.js",
+    "static/js/884.41ef56f0.chunk.js": "/camper_students-project/static/js/884.41ef56f0.chunk.js",
     "static/js/430.79dadff8.chunk.js": "/camper_students-project/static/js/430.79dadff8.chunk.js",
-    "static/js/768.b0ba5ffe.chunk.js": "/camper_students-project/static/js/768.b0ba5ffe.chunk.js",
+    "static/js/545.7a482b17.chunk.js": "/camper_students-project/static/js/545.7a482b17.chunk.js",
     "static/media/Camper_hero.jpeg": "/camper_students-project/static/media/Camper_hero.6ee7f81431e84f48783c.jpeg",
     "static/media/sprite.svg": "/camper_students-project/static/media/sprite.ecc01ffcc4faa7c78ffd023fa65c4bd1.svg",
     "index.html": "/camper_students-project/index.html",
     "main.d6b9e615.css.map": "/camper_students-project/static/css/main.d6b9e615.css.map",
-    "main.a17c2776.js.map": "/camper_students-project/static/js/main.a17c2776.js.map",
+    "main.b37ab847.js.map": "/camper_students-project/static/js/main.b37ab847.js.map",
     "122.24d9c981.chunk.js.map": "/camper_students-project/static/js/122.24d9c981.chunk.js.map",
-    "649.fae41051.chunk.js.map": "/camper_students-project/static/js/649.fae41051.chunk.js.map",
-    "884.a6c668c7.chunk.js.map": "/camper_students-project/static/js/884.a6c668c7.chunk.js.map",
+    "649.f9cf388e.chunk.js.map": "/camper_students-project/static/js/649.f9cf388e.chunk.js.map",
+    "884.41ef56f0.chunk.js.map": "/camper_students-project/static/js/884.41ef56f0.chunk.js.map",
     "430.79dadff8.chunk.js.map": "/camper_students-project/static/js/430.79dadff8.chunk.js.map",
-    "768.b0ba5ffe.chunk.js.map": "/camper_students-project/static/js/768.b0ba5ffe.chunk.js.map"
+    "545.7a482b17.chunk.js.map": "/camper_students-project/static/js/545.7a482b17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6b9e615.css",
-    "static/js/main.a17c2776.js"
+    "static/js/main.b37ab847.js"
   ]
 }
