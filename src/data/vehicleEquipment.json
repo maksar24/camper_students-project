@@ -1,0 +1,27 @@
+[
+  {
+    "name": "airConditioner",
+    "label": "AC",
+    "specialStyle": false
+  },
+  {
+    "name": "transmission",
+    "label": "Automatic",
+    "specialStyle": true
+  },
+  {
+    "name": "kitchen",
+    "label": "Kitchen",
+    "specialStyle": true
+  },
+  {
+    "name": "tv",
+    "label": "TV",
+    "specialStyle": true
+  },
+  {
+    "name": "shower",
+    "label": "Shower/WC",
+    "specialStyle": true
+  }
+]

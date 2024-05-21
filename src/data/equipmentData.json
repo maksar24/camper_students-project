@@ -1,0 +1,15 @@
+[
+  { "label": "TV", "name": "tv" },
+  { "label": "AC", "name": "airConditioner" },
+  { "label": "Kitchen", "name": "kitchen" },
+  { "label": "Beds", "name": "beds" },
+  { "label": "CD", "name": "CD" },
+  { "label": "Radio", "name": "radio" },
+  { "label": "Hob", "name": "hob" },
+  { "label": "Toilet", "name": "toilet" },
+  { "label": "Shower", "name": "shower" },
+  { "label": "Freezer", "name": "freezer" },
+  { "label": "Water", "name": "water" },
+  { "label": "Microwave", "name": "microwave" },
+  { "label": "Gas", "name": "gas" }
+]

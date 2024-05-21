@@ -1,0 +1,22 @@
+[
+  {
+    "name": "length",
+    "label": "Length"
+  },
+  {
+    "name": "width",
+    "label": "Width"
+  },
+  {
+    "name": "height",
+    "label": "Height"
+  },
+  {
+    "name": "tank",
+    "label": "Tank"
+  },
+  {
+    "name": "consumption",
+    "label": "Consumption"
+  }
+]

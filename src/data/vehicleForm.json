@@ -1,0 +1,14 @@
+[
+  {
+    "name": "panelTruck",
+    "label": "Panel Truck"
+  },
+  {
+    "name": "fullyIntegrated",
+    "label": "Fully Integrated"
+  },
+  {
+    "name": "alcove",
+    "label": "Alcove"
+  }
+]
