@@ -23,6 +23,7 @@ import {
 import { useState } from 'react';
 import Features from 'components/Features/Features';
 import BookingForm from 'components/BookingForm/BookingForm';
+import Reviews from 'components/Reviews/Reviews';
 
 ReactModal.setAppElement('#root');
 
@@ -108,7 +109,7 @@ const Modal = ({ data, isOpen, toggleModal }) => {
 
         <CategoryContainer>
           <DetailsWrapper>
-            <Features data={data} />
+            {isChecked ? <Features data={data} /> : <Reviews data={data} />}
           </DetailsWrapper>
           <BookingForm />
         </CategoryContainer>
