@@ -18,6 +18,6 @@ The appearance of the program should consist of navigation (design at your discr
 
 * **React**: Created using React ([Create React App](https://github.com/facebook/create-react-app)), SPA (Single Page Application) comply with users' demand
 * **React Router**: App navigation implemented using [React Router](https://reactrouter.com/en/main)
-* **Redux**: Main store state is made with Redux ([Redux Toolkit](https://redux-toolkit.js.org/)), saving "Favourites" list between sessions, using Redux Persist
+* **Redux**: Main store state is made with Redux ([Redux Toolkit](https://redux-toolkit.js.org/)), saving "Favourites" list between sessions, using [Redux Persist](https://www.npmjs.com/package/redux-persist)
 * **Axios**: HTTP requests are made with [Axios](https://axios-http.com/)
 * MockAPI: [MockAPI.io](https://mockapi.io/) was used as a remote server for stored main data 
